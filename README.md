@@ -1,5 +1,12 @@
 # 🏦 Gestion de Comptes Bancaires avec Spring Boot et GraphQL 🚀
 
+![Image](https://github.com/user-attachments/assets/d6bd58d1-1d1b-4be9-a367-66c273705c06)
+![Image](https://github.com/user-attachments/assets/f44f6f6d-fa6a-4d5e-8f0e-a84d54a3974e)
+![Image](https://github.com/user-attachments/assets/145d01d3-f0ff-4e32-bdb8-706d0ffb441f)
+![Image](https://github.com/user-attachments/assets/bcb21b53-aff6-422f-8a7b-759a624ae3eb)
+![Image](https://github.com/user-attachments/assets/69f3e60c-8128-453e-a3f2-1cc061a03dc9)
+![Image](https://github.com/user-attachments/assets/829ac676-4614-4aee-a8f6-1e47257f5aeb)
+
 ## 📋 Table des matières
 - [📌 Introduction](#-introduction)
 - [✨ Fonctionnalités](#-fonctionnalités)
